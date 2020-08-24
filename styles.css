@@ -1,0 +1,58 @@
+/* TAG Selectors */
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin-top: 100px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: white;
+}
+
+p {
+  font-size: 2rem;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+/* CLASS SELECTORS */
+
+.bgimg{
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  height: 800px;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.diceSize {
+  width: 60%;
+}
+
+.buttoncont{
+  text-align: center;
+  margin-top: 50px;
+}
